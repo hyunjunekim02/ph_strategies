@@ -1,8 +1,5 @@
 # Persistent Homology–Driven Trading Strategies Under Financial Market Anomalies
 
-> **Author:** Hyunjune Kim
-> **Date:** December 2025
-
 ## Note
 This project was completed as the final course project for the POSTECH Mathematical Data Science class during the Fall 2025 semester.
 
