@@ -20,7 +20,7 @@ ph-trading-strategies/
 │   ├── visualization.py  # Plotting (anomaly diagnostics & performance)
 │   └── evaluation.py     # Strategy runner, comparison table, best picker
 ├── data/                 # Place CSV files here
-└── figures/              # (optional) saved plots
+└── figures/              # Plots
 ```
 
 ## Installation
