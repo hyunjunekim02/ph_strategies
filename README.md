@@ -102,18 +102,36 @@ Daily closing prices from [Investing.com](https://www.investing.com/). Each CSV 
 ## Figures (Best Strategy per Asset)
 
 <p float="left">
-  <img src="figures/snp_best.png" width="49%" />
-  <img src="figures/nasdaq_best.png" width="49%" />
+  <figure style="display:inline-block; width:49%; margin:0;">
+    <img src="figures/snp_best.png" width="100%" alt="S&P 500 — Best Strategy Result" />
+    <figcaption><b>S&P 500</b> — Best strategy performance (S4, W=45)</figcaption>
+  </figure>
+  <figure style="display:inline-block; width:49%; margin:0;">
+    <img src="figures/nasdaq_best.png" width="100%" alt="NASDAQ — Best Strategy Result" />
+    <figcaption><b>NASDAQ</b> — Best strategy performance (S4, W=90)</figcaption>
+  </figure>
 </p>
 
 <p float="left">
-  <img src="figures/aapl_best.png" width="49%" />
-  <img src="figures/msft_best.png" width="49%" />
+  <figure style="display:inline-block; width:49%; margin:0;">
+    <img src="figures/aapl_best.png" width="100%" alt="AAPL — Best Strategy Result" />
+    <figcaption><b>AAPL</b> — Best strategy performance (S1, W=45)</figcaption>
+  </figure>
+  <figure style="display:inline-block; width:49%; margin:0;">
+    <img src="figures/msft_best.png" width="100%" alt="MSFT — Best Strategy Result" />
+    <figcaption><b>MSFT</b> — Best strategy performance (S3, W=90)</figcaption>
+  </figure>
 </p>
 
 <p float="left">
-  <img src="figures/pltr_best.png" width="49%" />
-  <img src="figures/ionq_best.png" width="49%" />
+  <figure style="display:inline-block; width:49%; margin:0;">
+    <img src="figures/ionq_best.png" width="100%" alt="IONQ — Best Strategy Result" />
+    <figcaption><b>IONQ</b> — Best strategy performance (S5, W=30)</figcaption>
+  </figure>
+  <figure style="display:inline-block; width:49%; margin:0;">
+    <img src="figures/pltr_best.png" width="100%" alt="PLTR — Best Strategy Result" />
+    <figcaption><b>PLTR</b> — Best strategy performance (S4, W=45)</figcaption>
+  </figure>
 </p>
 
 ## Hyperparameters
