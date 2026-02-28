@@ -99,6 +99,23 @@ Daily closing prices from [Investing.com](https://www.investing.com/). Each CSV 
 | IONQ | 30 | S5 | +362.89% |
 | PLTR | 45 | S4 | +194.53% |
 
+## Figures (Best Strategy per Asset)
+
+<p float="left">
+  <img src="figures/snp_best.png" width="49%" />
+  <img src="figures/nasdaq_best.png" width="49%" />
+</p>
+
+<p float="left">
+  <img src="figures/aapl_best.png" width="49%" />
+  <img src="figures/msft_best.png" width="49%" />
+</p>
+
+<p float="left">
+  <img src="figures/pltr_best.png" width="49%" />
+  <img src="figures/ionq_best.png" width="49%" />
+</p>
+
 ## Hyperparameters
 
 | Parameter | Values |
